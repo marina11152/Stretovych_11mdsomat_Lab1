@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Montserat Light';
+    src: url(./fonts/Montserrat/Montserrat-Light.ttf);
+}
+@font-face {
+    font-family: 'Montserat';
+    src: url(./fonts/Montserrat/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: 'Montserat Bold';
+    src: url(./fonts/Montserrat/Montserrat-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'Gooddog Cool';
+    src: url(./fonts/GoodDog/GoodDogCool.ttf);
+}
+@font-face {
+    font-family: 'Gooddog';
+    src: url(./fonts/GoodDog/GoodDog.otf);
+}

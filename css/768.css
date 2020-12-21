@@ -1,0 +1,139 @@
+ @media only screen and (max-width : 768px) {
+	 nav{
+		 margin-bottom: 40px;
+	 }
+	.menu li{
+		padding: 0;
+	}
+	.menu li:last-child{
+		margin-right: 15px;
+	}
+	.menu a{
+		font-size: 16px;
+		padding: 5px;
+	}
+	.caption{
+		width: 100%;
+		min-width: 100%;
+		margin-right: 0;
+		padding-right: 10px;
+		padding:0 20px;
+		text-align: center;
+	}
+	.caption img{
+		margin-bottom: 50px;
+	}
+	.caption h1{
+		font-size: 50px;
+		text-align: center;
+		margin-bottom:60px ;
+	}
+	.caption h2{
+		font-size: 30px;
+		text-align: center;
+	}
+	.details{
+		width: 70%;
+		margin: 0 auto;
+		font-size: 24px;
+	}
+	.about{
+		padding: 100px 20px;
+		background-blend-mode: multiply;
+		background-color: rgba(0,0,0, 0.6);
+	}
+	.about p{
+		width: 90%;
+	}
+	.news{
+		padding: 100px 20px;
+	}
+	.newsBox{
+		flex-direction: column;
+	}
+	.box{
+		width: 100%;
+		max-width: 100%;
+		text-align: center;
+		margin-bottom: 30px;
+	}
+	.menuList{
+		flex-direction: column;
+	}
+	.dishLeft, .dishRight{
+		width: 100%;
+		flex-direction: column;
+		float: none;
+		text-align: center;
+		margin-bottom: 40px;
+	}
+	.dishDescription{
+		float: none;
+		width: 100%;
+	}
+	.dishLeft img, .dishRight img{
+		width: 60%;
+		margin: 0 auto;
+		float: none;
+	}
+	.newMenu ul li{
+		width: 100%;
+	}
+	.discover{
+		padding: 200px 0;
+	}
+
+ 		.formWrapper{
+ 			min-width: 100%;
+ 			flex-direction: column;
+ 			align-items: center;
+ 		}
+ 		.orderItem{
+ 			width: 80%;
+ 			max-width: 80%;
+ 			text-align: center;
+ 		}
+ 		.flexColumn{
+ 			order:2;
+ 			
+
+ 		}
+ 		label{
+ 			display: block;
+ 			text-align-last: left;
+ 		}
+ 		input{
+ 			width: 100%;
+ 			margin-bottom: 25px;
+ 		}
+ 		input[type="submit"]{
+ 			background-color: #464646;
+		}
+		 input[type="time"]{
+			width: 100%;
+		}
+		input[type="date"]{
+				width: 100%;
+				margin: 0 auto;
+		}
+ 		input[type="emain"]{
+ 			margin-bottom: 45px;
+ 		}	
+ 		.leftSide p{
+ 			font-size: 14px;
+ 			line-height: 20px;
+ 		}
+ 		footer h1{
+ 			margin-bottom: 30px;
+ 			font-size: 20px;
+ 		}
+ 		.footerBlok{
+ 			padding-left: 15px;
+ 		}
+ 		.footerBlok h1{
+ 			font-size: 18px;
+ 		}
+ 		.footerBlok a{
+ 			font-size: 14px;
+ 		}
+    }
